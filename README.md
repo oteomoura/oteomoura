@@ -2,8 +2,7 @@
 Migrating towards AI/ML Engineer roles <br>
 Five years of experience in Full-Stack Development, mainly with Ruby on Rails and ReactJS <br>
 Worked for large, established companies as well as Series A through D startups and the government sector <br>
-I’m currently learning Deep Learning with Pytorch and Tensorflow<br>
-I’m currently working on IBM’s AI Engineering professional certificate on Coursera <br>
+Learning Deep Learning and LLMs/AI agents
 Ask me about Full-Stack development and ML/AI
 
 ## AI-related Projects:

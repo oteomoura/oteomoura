@@ -1,10 +1,13 @@
 # 💫 About Me:
 Migrating towards AI/ML Engineer roles <br>
-Software engineer with about five years of experience in Full-Stack Development, mainly with Ruby on Rails and ReactJS <br>
-I've worked for large, established companies as well as Series A through D startups and the government sector <br>
+Five years of experience in Full-Stack Development, mainly with Ruby on Rails and ReactJS <br>
+Worked for large, established companies as well as Series A through D startups and the government sector <br>
+I’m currently learning Deep Learning with Pytorch and Tensorflow<br>
 I’m currently working on IBM’s AI Engineering professional certificate on Coursera <br>
-I’m currently learning Deep Learning with Pytorch and Tensorflow<br>Ask me about Full-Stack development and ML/AI
+Ask me about Full-Stack development and ML/AI
 
+## AI-related Projects:
+[Machine learning and AI: An old new exploration](https://tech.teomoura.com/machine-learning-and-ai-an-old-new-exploration)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/oteomoura) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/teogenesmoura) 

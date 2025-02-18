@@ -2,7 +2,7 @@
 Migrating towards AI/ML Engineer roles <br>
 Five years of experience in Full-Stack Development, mainly with Ruby on Rails and ReactJS <br>
 Worked for large, established companies as well as Series A through D startups and the government sector <br>
-Learning Deep Learning and LLMs/AI agents
+Learning Deep Learning and LLMs/AI agents <br>
 Ask me about Full-Stack development and ML/AI
 
 ## AI-related Projects:

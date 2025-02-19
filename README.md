@@ -6,7 +6,7 @@ Studying Deep Learning and LLMs/AI agents <br>
 Ask me about Full-Stack development and ML/AI
 
 ## AI-related Projects:
-[Machine learning and AI: An old new exploration](https://tech.teomoura.com/machine-learning-and-ai-an-old-new-exploration)
+[Classifying soccer shirts: A journey back to AI](https://tech.teomoura.com/machine-learning-and-ai-an-old-new-exploration)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/oteomoura) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/teogenesmoura) 

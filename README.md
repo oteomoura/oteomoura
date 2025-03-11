@@ -2,7 +2,9 @@
 Software Engineer with five years of full-stack web development experience, now resuming my career after a brief personal leave to support a close relative with medical needs. Skilled in ReactJS, TypeScript, Ruby on Rails, and database management with PostgreSQL and MongoDB. Experienced in building scalable solutions for both early-stage startups and large organizations (1000+ employees).
 
 
-## Projects:
+## Projects and blog posts:
+[Cutting costs on developing RAG chatbots](https://tech.teomoura.com/cutting-costs-on-developing-rag-chatbots)
+
 [Classifying soccer shirts: A journey back to AI](https://tech.teomoura.com/machine-learning-and-ai-an-old-new-exploration)
 
 [Votechain](https://github.com/teogenesmoura/votechain)

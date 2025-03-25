@@ -3,6 +3,8 @@ Software Engineer with five years of full-stack web development experience, now 
 
 
 ## Projects and blog posts:
+[Ditch vibe coding and build developer instincts](https://tech.teomoura.com/ditch-vibe-coding-and-build-developer-instincts)
+
 [Cutting costs on developing RAG chatbots](https://tech.teomoura.com/cutting-costs-on-developing-rag-chatbots)
 
 [Classifying soccer shirts: A journey back to AI](https://tech.teomoura.com/machine-learning-and-ai-an-old-new-exploration)
